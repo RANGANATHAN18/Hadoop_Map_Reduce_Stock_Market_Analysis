@@ -1,0 +1,1 @@
+hadoop jar stockkk.jar stock /user/edureka/stock11.csv /Ranganathan/project3
